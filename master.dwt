@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- #BeginEditable "doctitle" -->
+<title></title>
+<!-- #EndEditable -->
+<link rel="stylesheet" type="text/css" title="CSS" href="style1.css" media="screen" />
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead">
+		<h1>Win a Contest Newsletter</h1>
+		<h3>The Ultimate Contesting Experience</h3>
+		<h4>for Canadian Residents</h4>
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation">
+		<ul>
+			<li><a href="default.htm">Home</a></li>
+			<li><a href="benefits.htm">Benefits</a></li>
+			<li><a href="membership.htm">Membership</a></li>
+			<li><a href="trial.htm">Trial Offer</a></li>
+			<li><a href="credits.htm">Extras</a></li>
+			<li><a href="terms.htm">Terms and Conditions</a></li>
+			<li><a href="faq.htm">FAQ</a></li>
+			<li><a href="testimonials.htm">Testimonials</a></li>
+			<li><a href="contact.htm">Contact Us</a></li>
+		</ul>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Content -->
+	<div id="content">
+		<!-- #BeginEditable "content" -->
+		<h2>Win a Contest Newsletter</h2>
+		<p>Your resource to finding and winning contests</p>
+		<!-- #EndEditable "content" --></div>
+	<!-- End Content -->
+	<!-- Begin Footer -->
+	<div id="footer">
+		<p><a href="default.htm">Home</a> | <a href="benefits.htm">Benefits</a> |
+		<a href="membership.htm">Membership</a> | <a href="trial.htm">Trial Offer</a> 
+		| <a href="credits.htm">Extras</a> |
+		<a href="terms.htm">Terms and Conditions</a> |
+		<a href="faq.htm">FAQ</a> | 
+		<a href="testimonials.htm">Testimonials</a> | 
+		<a href="contact.htm">Contact Us</a></p>
+	</div>
+	<!-- End Footer --></div>
+<!-- End Container -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2011093-1";
+urchinTracker();
+</script>
+</body>
+
+</html>
