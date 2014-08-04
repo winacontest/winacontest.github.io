@@ -1,20 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
-
+<!DOCTYPE html>
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<title>Trial Request</title>
-<style type="text/css">
-.style1 {
-	font-size: small;
-	font-family: "Comic Sans MS";
-}
-</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<link rel="stylesheet" type="text/css" title="CSS" href="style1.css" media="screen" />
+	<title>Trial Request</title>
 
+	<link rel="stylesheet" type="text/css" title="CSS" href="style1.css" media="screen" />
 
 </head>
 
@@ -54,7 +46,7 @@
 	<div id="content0">
 		<h2>Trial Offer</h2>
 		<p class="MsoNormal"><span lang="EN-CA"> Thank you! The Trial Offer Request Form has been submitted successfully.</p>
-		<p> Please contact <a href="mailto:info@winacontest.com">info@winacontest.com</a> if you have any questions or concerns.</p> 
+		<p> Please contact <a href="mailto:winacontest.com@gmail.com">winacontest.com@gmail.com</a> if you have any questions or concerns.</p> 
 		</div>
 	<!-- End Content -->
 </div>
