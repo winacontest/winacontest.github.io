@@ -1,0 +1,183 @@
+/*
+  Layout
+ */
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+ box-sizing: border-box;
+}
+*, *:before, *:after {
+ box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+#container {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+#masthead {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+#navigation {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+#content {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+#footer {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+/*
+  Typography
+ */
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.2em;
+  line-height: 1.2em;
+  background-image: url("/images/background.gif");
+  background-repeat: repeat;
+  background-attachment: scroll;
+}
+
+/*
+   containers
+ */
+#container {
+  width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+  border-right: 2px solid #725972;
+  border-bottom: 2px solid #725972;
+  border-left: 2px solid #725972;
+  background-color: #fff;
+}
+
+#masthead {
+  text-align: center;
+  width: 780px;
+  padding: 10px;
+  border: 1px dotted #725972;
+  background-image: url("/images/masthead.gif");
+  background-repeat: repeat;
+  background-attachment: scroll;
+}
+
+#navigation {
+  position: relative;
+  float: left;
+  width: 139px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-right: 1px dotted #725972;
+}
+
+#content {
+  float: left;
+  width: 610px;
+  padding-left: 10px;
+}
+
+#content p {
+  line-height: 1.6em;
+}
+
+#footer {
+  text-align: center;
+  clear: both;
+  width: 800px;
+  border: 1px dotted #d8bfd8;
+}
+
+/* Masthead Styles */
+#masthead h1 {
+  color: #fff;
+}
+#masthead h3 {
+  color: #402640;
+}
+
+/* Navigation Styles */
+#navigation ul {
+  list-style-type: none;
+  width: 100%;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+#navigation li {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 1px dotted #dfb8df;
+  background-color: #dfb8df;
+}
+#navigation a {
+  color: #402640;
+  text-decoration: none;
+  display: block;
+  padding: 5px;
+  border-bottom: 1px dotted #fff;
+  background-color: #dfb8df;
+}
+#navigation a:hover {
+  color: #402640;
+  text-decoration: none;
+  background-color: #fff;
+}
+
+/* Content Styles */
+#content h1,h2,h3,h4,h5,h6 {
+  color: #503750;
+}
+#content img {
+  padding: 5px;
+  border: 1px solid #402640;
+}
+
+/* Footer Styles */
+#footer p {
+  color: #808080;
+}
+#footer a {
+  color: #503750;
+  text-decoration: underline;
+}
+#footer a:hover {
+  color: #402640;
+  text-decoration: none;
+}
+a {
+  color: #402640;
+  text-decoration: underline;
+}
+a:hover {
+  color: #dfb8df;
+  text-decoration: underline;
+}
+.style_bold {
+  font-weight: bold;
+}
+.style_italic {
+  font-style: italic;
+}
+
+.errortext { 
+     color:#C00000;
+  }
+  
+ul.NoBullet {
+  list-style-type: square;
+}

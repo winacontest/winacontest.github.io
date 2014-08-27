@@ -1,3 +1,0 @@
-# robots.txt for http://www.winacontest.com
-User-agent: *
-Disallow: /gifs/
