@@ -146,6 +146,14 @@ body {
   padding: 5px;
   border: 1px solid #402640;
 }
+.faq-list {
+  list-style:none;
+  padding-left:0;
+  margin-left:0;
+}
+.faq-li {
+  margin-bottom: 10px
+}
 
 /* Footer Styles */
 #footer p {
