@@ -97,7 +97,7 @@ body {
 #footer {
   text-align: center;
   clear: both;
-  width: 800px;
+  width: 100%;
   border: 1px dotted #d8bfd8;
 }
 
@@ -146,13 +146,18 @@ body {
   padding: 5px;
   border: 1px solid #402640;
 }
-.faq-list {
-  list-style:none;
-  padding-left:0;
-  margin-left:0;
+.faq-list a {
 }
 .faq-li {
   margin-bottom: 10px
+}
+.simple-table {
+    border-style: solid;
+    border-width: 2px;
+}
+.table-data {
+    font-family: "Helvetica";
+    font-size: 20px;
 }
 
 /* Footer Styles */
@@ -168,11 +173,11 @@ body {
   text-decoration: none;
 }
 a {
-  color: #402640;
-  text-decoration: underline;
+  color: #0088CC;
+  text-decoration: none;
 }
 a:hover {
-  color: #dfb8df;
+  color: #0088CC;
   text-decoration: underline;
 }
 .style_bold {
